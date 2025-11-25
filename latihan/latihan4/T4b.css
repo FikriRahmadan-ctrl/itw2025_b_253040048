@@ -84,9 +84,9 @@ body {
 }
 .Tersangka1 {
   height: 400px;
-  background-image: url(tersangka1.jpg);
+  background-image: url(pelaku.jpeg);
   background-size: cover;
-  background-position: 0px 500px;
+  background-position: 0px 395spx;
   border-top: 5px solid lightskyblue;
 }
 .content {
